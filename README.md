@@ -4,7 +4,7 @@ a minimal auto-updater and installer of [flowseal/zapret-discord-youtube](https:
 
 ## usage
 
-1. download `zapret_installer.bat`
+1. download `zapret_autoupdate.bat`
 2. place it anywhere
 3. run it
 
